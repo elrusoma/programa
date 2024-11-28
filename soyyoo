@@ -1,0 +1,13 @@
+[
+ {
+ "run": "22144688-7",
+ "nombre": "Patricio",
+ "apellido": "Allendes",
+ "direccion": "Rodelillo 2415",
+ "fono": 934053281,
+ "correo":"patricio.allendes03@inacapamail.cl",
+ "montoCredito": 2000,
+ "deuda":0,
+ "tipo": 3
+ }
+]
